@@ -1,0 +1,2 @@
+# VostrokLZ
+Vostrok Compression Library
